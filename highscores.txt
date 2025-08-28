@@ -1,0 +1,3 @@
+Player1	463
+Player2	179
+Alina	180
